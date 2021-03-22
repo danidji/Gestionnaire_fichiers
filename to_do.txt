@@ -1,0 +1,1 @@
+- Rajouter un data-index au nouveau fichier ajouter suite à addFiles_event
